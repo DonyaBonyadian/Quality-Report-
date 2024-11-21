@@ -1,6 +1,6 @@
 # Quality Report Dashboard
 
-![Alt text](https://github.com/DonyaBonyadian/Quality-Report-/blob/main/Q1.png) ![Alt text]()
+![Alt text](https://github.com/DonyaBonyadian/Quality-Report-/blob/main/Q1.png) ![Alt text](https://github.com/DonyaBonyadian/Quality-Report-/blob/main/Q2.png) 
 
 
 ## Overview
