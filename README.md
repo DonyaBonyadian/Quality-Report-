@@ -1,4 +1,4 @@
-# Intractive Quality Report 
+# Interactive Quality Report 
 
 ![Alt text](https://github.com/DonyaBonyadian/Quality-Report-/blob/main/Q1.png) 
 
