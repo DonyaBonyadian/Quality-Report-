@@ -1,5 +1,8 @@
 # Quality Report Dashboard
 
+![Alt text](image-url)
+
+
 ## Overview
 This **Power BI Quality Report** is designed to provide a comprehensive analysis of quality metrics within the manufacturing process. It enables stakeholders to track, analyze, and act on quality-related insights for continuous improvement.
 
