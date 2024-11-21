@@ -1,6 +1,6 @@
 # Quality Report Dashboard
 
-![Alt text](https://github.com/DonyaBonyadian/Quality-Report-/blob/main/Q1.png) ![Alt text](https://github.com/DonyaBonyadian/Quality-Report-/blob/main/Q2.png) 
+![Alt text](https://github.com/DonyaBonyadian/Quality-Report-/blob/main/Q1.png) 
 
 
 ## Overview
@@ -11,7 +11,7 @@ This **Power BI Quality Report** is designed to provide a comprehensive analysis
 - **Trend Monitoring**: Visualize quality trends over time to identify patterns and root causes.
 - **Process Comparisons**: Compare quality performance across different shifts, work orders, or products.
 - **Interactive Filters**: Dynamic filters for drilling down into specific data points, such as product categories or time frames.
-
+![Alt text](https://github.com/DonyaBonyadian/Quality-Report-/blob/main/Q2.png) 
 ## Objectives
 1. **Reduce Defects**: Identify high-defect areas to prioritize process improvements.
 2. **Enhance Reporting**: Provide stakeholders with actionable data for informed decision-making.
